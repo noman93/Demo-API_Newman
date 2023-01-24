@@ -1,4 +1,4 @@
-# Dmoney_API_Newman
+# Dmoney_API Test in Postman And Generate Report Using Newman
 
 ## How to run this project
 - clone the project
