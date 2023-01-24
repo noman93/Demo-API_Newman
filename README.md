@@ -16,7 +16,7 @@
  - https://documenter.getpostman.com/view/25395730/2s8ZDbX1sE
  
 ## Test Cases:
-- [Google drive link](https://docs.google.com/spreadsheets/d/1WvKZe_UNduP8C44cVpNdVmLjLLCePUnh/edit?usp=share_link&ouid=100119845117710925220&rtpof=true&sd=true)
+- https://docs.google.com/spreadsheets/d/1WvKZe_UNduP8C44cVpNdVmLjLLCePUnh/edit?usp=share_link&ouid=100119845117710925220&rtpof=true&sd=true
 
 ## Bug Report:
 - https://docs.google.com/spreadsheets/d/1m4BR3iYR6N33lEjDlbGoUsWvHmbmI2dD/edit?usp=share_link&ouid=100119845117710925220&rtpof=true&sd=true
