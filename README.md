@@ -2,7 +2,7 @@
 
 ## How to run this project
 - clone the project
-- give this command  npm  i  and  npm test
+- give this command:  npm  i  and  npm test
 
 ## Technnology used
 - Postman
