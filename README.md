@@ -1,4 +1,4 @@
-# Dmoney_API Test in Postman And Generate Report Using Newman
+# Demo Digital Wallet  API Test in Postman And Generate Report Using Newman
 
 ## How to run this project
 - clone the project
